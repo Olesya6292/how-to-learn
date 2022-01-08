@@ -1,0 +1,10 @@
+.logo {
+    width: 183px;
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+}
+
+.logo:hover {
+    opacity: 0.5;
+    transition: opacity 1s ease-in-out;
+}
